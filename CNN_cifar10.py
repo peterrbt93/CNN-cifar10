@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 #%%
 
 # =============================================================================
-# Recurrent networks are good for temporal correlations, Convolutional
+#  Recurrent networks are good for temporal correlations, Convolutional
 #  NN are good for spatial correlations. Instead of having layers that
 #  are fully connected, they are only connected to nodes close to them
 #  Effectively scanning the image one segment at a time. Why its known
